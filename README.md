@@ -11,3 +11,8 @@
 
 ### http://localhost:3000/api
 Json filmesBarbie
+
+Comandos utilizados:
+ npm init -y
+ npm install express
+ npm install nodemon --save-dev
