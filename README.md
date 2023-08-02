@@ -1,5 +1,6 @@
 # Trabalho Backend Node js 
 ## Campinho Digital - Curso Web Full-Stack
+### http://localhost:3000/api
 
 Crie um repositorio 
 
